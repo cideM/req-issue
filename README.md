@@ -20,3 +20,5 @@ foo: VanillaHttpException (HttpExceptionRequest Request {
  ConnectionTimeout)
 
 ```
+
+vs. `curl https://www.googleapis.com/robot/v1/metadata/x509/securetoken@system.gserviceaccount.com` which just works
